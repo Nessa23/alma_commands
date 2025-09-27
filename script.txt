@@ -1,7 +1,8 @@
 ~/casa-pipeline-python2/casa-pipeline-release-5.6.3-19.el6/bin/casa --pipeline
 execfile('scriptforPI.py')
 
-~/casa-pipeline/casa-6.6.1-17-pipeline-2024.1.0.8-py3.8.el8/casa-6.6.1-17-pipeline-2024.1.0.8/bin/casa --pipeline
+/home/anastasia/casa-pipeline/casa-6.6.1-17-pipeline-2024.1.0.8/bin/casa --pipeline
+
 
 
 h_init()
