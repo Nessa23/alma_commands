@@ -3,6 +3,7 @@ execfile('scriptforPI.py')
 
 /home/anastasia/casa-pipeline/casa-6.6.1-17-pipeline-2024.1.0.8/bin/casa --pipeline
 
+~/casa4.7/casa-release-4.7.2-el7/bin/mpicasa -n 8 ~/casa4.7/casa-release-4.7.2-el7/bin/casa --pipeline
 
 
 h_init()
